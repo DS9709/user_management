@@ -6,10 +6,10 @@
     python3 -m venv venv
 
 ## Activate virtual enviorrnment
-* Windows
+* Windows:
     venv\Scripts\activate
 
-* macOS/Linux
+* macOS/Linux:
     source venv/bin/activate
 
 ## Install Requirements
@@ -25,4 +25,4 @@
     python manage.py migrate
 
 ## Run the Development Server
-    python manage.py runserver
+    python manage.py runserver 8002
