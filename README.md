@@ -1,4 +1,5 @@
 ## Clone the Repository
+    https://github.com/DS9709/user_management.git
 
 ## Create virtual enviorrnment
     cd user_management
