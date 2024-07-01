@@ -16,8 +16,7 @@
     pip install -r requirements.txt
 
 ## Install PostgreSQL
-* Follow the instructions in the given Link to install postgres and pgAdmin on your system
-    https://www.guru99.com/download-install-postgresql.html
+* Install postgres and pgAdmin on your system
 * After completing the setup go to teh settings and do teh following:
     Find 'DATABASES' dictonary in settings and fill the details 'NAME', 'USER', 'PASSWORD' which you created at the time of setup.
 
